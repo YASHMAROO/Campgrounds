@@ -12,10 +12,10 @@ git clone https://github.com/<your_username>/ampgrounds.git
 git remote add upstream https://github.com/YASHMAROO/Campgrounds.git
 
 4 install dependencies
-npm install
+Cammand: npm install
 
 5 serve with localhost:3000
-node app.js
+Command: node app.js
 
 # Prerequisites
 The following are thre prererquisites to run the webapp
